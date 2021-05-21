@@ -1,17 +1,17 @@
-#include <iostream>
-#include <fstream>
-#include <string>
-#include <vector>
-#include "patient.h"
-#include "scanner.h"
-#include "radio.h"
-#include "mammo.h"
-#include "analyse.h"
-#include "controle.h"
-#include "tab_fichier.h"
-#include "fichier_tab.h"
-#include "saisie.h"
-#include "traitement.h"
+#include <iostream> ;
+#include <fstream> ;
+#include <string> ;
+#include <vector> ;
+#include "patient.h" ;
+#include "scanner.h" ;
+#include "radio.h" ;
+#include "mammo.h" ;
+#include "analyse.h" ;
+#include "controle.h" ;
+#include "tab_fichier.h" ;
+#include "fichier_tab.h" ;
+#include "saisie.h" ;
+#include "traitement.h" ;
 
 using namespace std;
 
